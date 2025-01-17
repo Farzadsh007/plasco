@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="121px" height="50px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 7.4 3.07"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+   <clipPath id="id0">
+    <path d="M7.4 3.07l0 -3.07 -7.4 0 0 3.07 7.4 0z"/>
+   </clipPath>
+   <clipPath id="id1">
+    <path d="M7.4 3.07l0 -3.07 -7.4 0 0 3.07 7.4 0z"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g clip-path="url(#id0)">
+   <polygon fill="#212121" fill-opacity="0.000000" points="0,0 7.4,0 7.4,3.07 0,3.07 "/>
+  </g>
+  <g clip-path="url(#id1)">
+   <g id="_2766164979344">
+    <path id="_1" fill="#FF9800" fill-rule="nonzero" d="M-12.83 -1.98l0 0c0.6,-0.6 1.57,-0.6 2.17,0l4.34 4.33c0.6,0.6 0.6,1.57 0,2.17l0 0c-0.6,0.6 -1.57,0.6 -2.17,0l-4.34 -4.33c-0.59,-0.6 -0.59,-1.57 0,-2.17z"/>
+    <path fill="#FF9800" fill-rule="nonzero" d="M-4.15 -1.98l0 0c0.6,-0.6 1.57,-0.6 2.17,0l4.33 4.33c0.6,0.6 0.6,1.57 0,2.17l0 0c-0.59,0.6 -1.57,0.6 -2.16,0l-4.34 -4.33c-0.6,-0.6 -0.6,-1.57 0,-2.17z"/>
+    <path fill="#FF9800" fill-rule="nonzero" d="M4.52 -1.98l0 0c0.6,-0.6 1.57,-0.6 2.17,0l4.34 4.33c0.6,0.6 0.6,1.57 0,2.17l0 0c-0.6,0.6 -1.57,0.6 -2.17,0l-4.34 -4.33c-0.6,-0.6 -0.6,-1.57 0,-2.17z"/>
+    <path fill="#FF9800" fill-rule="nonzero" d="M13.2 -1.98l0 0c0.6,-0.6 1.57,-0.6 2.17,0l4.33 4.33c0.6,0.6 0.6,1.57 0,2.17l0 0c-0.6,0.6 -1.57,0.6 -2.17,0l-4.33 -4.33c-0.6,-0.6 -0.6,-1.57 0,-2.17z"/>
+    <path fill="#FF9800" fill-rule="nonzero" d="M21.87 -1.98l0 0c0.6,-0.6 1.57,-0.6 2.17,0l4.34 4.33c0.6,0.6 0.6,1.57 0,2.17l0 0c-0.6,0.6 -1.57,0.6 -2.17,0l-4.34 -4.33c-0.6,-0.6 -0.6,-1.57 0,-2.17z"/>
+   </g>
+  </g>
+  <polygon fill="none" points="7.4,3.07 7.4,0 0,0 0,3.07 "/>
+ </g>
+</svg>

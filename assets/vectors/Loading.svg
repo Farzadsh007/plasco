@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="700px" height="50px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 266.22 19.02"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+   <clipPath id="id0" clip-rule="nonzero">
+    <path d="M0 0l256.71 0c5.25,0 9.51,4.26 9.51,9.51l0 0c0,5.25 -4.26,9.51 -9.51,9.51l-256.71 0 0 -19.02z"/>
+   </clipPath>
+   <clipPath id="id1" clip-rule="nonzero">
+    <path d="M0 0l256.71 0c5.25,0 9.51,4.26 9.51,9.51l0 0c0,5.25 -4.26,9.51 -9.51,9.51l-256.71 0 0 -19.02z"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path fill="#212121" fill-rule="nonzero" d="M0 9.51c0,-5.25 4.26,-9.51 9.51,-9.51l247.2 0c5.25,0 9.51,4.26 9.51,9.51 0,5.24 -4.24,9.49 -9.47,9.51l-247.28 0c-5.23,-0.02 -9.47,-4.27 -9.47,-9.51z"/>
+  <g clip-path="url(#id0)">
+   <polygon fill="#212121" fill-rule="nonzero" fill-opacity="0.000000" points="0,0 266.22,0 266.22,19.02 0,19.02 "/>
+  </g>
+  <g clip-path="url(#id1)">
+   <g id="_1829205994640">
+    <path id="_1" fill="#FF9800" fill-rule="nonzero" d="M12.76 -12.29l0 0c3.71,-3.72 9.73,-3.72 13.45,0l26.89 26.89c3.71,3.71 3.71,9.73 0,13.45l0 0c-3.72,3.71 -9.74,3.71 -13.45,0l-26.89 -26.9c-3.71,-3.71 -3.71,-9.73 0,-13.44z"/>
+    <path fill="#FF9800" fill-rule="nonzero" d="M66.54 -12.29l0 0c3.72,-3.72 9.74,-3.72 13.45,0l26.89 26.89c3.72,3.71 3.72,9.73 0,13.45l0 0c-3.71,3.71 -9.73,3.71 -13.44,0l-26.9 -26.9c-3.71,-3.71 -3.71,-9.73 0,-13.44z"/>
+    <path fill="#FF9800" fill-rule="nonzero" d="M120.33 -12.29l0 0c3.71,-3.72 9.73,-3.72 13.44,0l26.9 26.89c3.71,3.71 3.71,9.73 0,13.45l0 0c-3.72,3.71 -9.74,3.71 -13.45,0l-26.89 -26.9c-3.71,-3.71 -3.71,-9.73 0,-13.44z"/>
+    <path fill="#FF9800" fill-rule="nonzero" d="M174.11 -12.29l0 0c3.72,-3.71 9.74,-3.71 13.45,0l26.89 26.89c3.71,3.71 3.71,9.73 0,13.45l0 0c-3.71,3.71 -9.73,3.71 -13.44,0l-26.9 -26.9c-3.71,-3.71 -3.71,-9.73 0,-13.44z"/>
+    <path fill="#FF9800" fill-rule="nonzero" d="M227.9 -12.29l0 0c3.71,-3.71 9.73,-3.71 13.45,0l26.89 26.89c3.71,3.71 3.71,9.73 0,13.45l0 0c-3.71,3.71 -9.74,3.71 -13.45,0l-26.89 -26.9c-3.71,-3.71 -3.71,-9.73 0,-13.44z"/>
+   </g>
+  </g>
+  <path fill="none" fill-rule="nonzero" d="M0 0l256.71 0c5.25,0 9.51,4.26 9.51,9.51l0 0c0,5.25 -4.26,9.51 -9.51,9.51l-256.71 0 0 -19.02z"/>
+ </g>
+</svg>
