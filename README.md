@@ -21,7 +21,7 @@ Plasco is a mobile application designed to streamline **Health, Safety, and Envi
 1. Clone the Plasco repository:
 
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/Farzadsh007/plasco
    ```
 
 2. Navigate to the project directory:
