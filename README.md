@@ -7,7 +7,7 @@ Plasco is a mobile application designed to streamline **Health, Safety, and Envi
 - **Anomaly Reporting:** Easily submit detailed reports of safety incidents, hazards, and near misses, including photos and videos.
 - **File Sharing:** Securely send and receive essential HSE-related documents for efficient collaboration and record-keeping.
 - **Contact Management:** Add and manage profiles of key personnel involved in HSE activities, facilitating quick communication.
-- **... (Add more features here)**
+
 
 ## **Getting Started**
 
@@ -21,7 +21,7 @@ Plasco is a mobile application designed to streamline **Health, Safety, and Envi
 1. Clone the Plasco repository:
 
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/Farzadsh007/plasco
    ```
 
 2. Navigate to the project directory:
